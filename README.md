@@ -26,7 +26,7 @@ Make shure to have installe the following libraries:
 --numpy
 
 
-The two python GUI codes are acociated to the data recorded during the experiments.
+The two python GUI codes are acociated to the data recorded during the experiments. The path at the beginning must be adjuest to the individual user.
 
 --GUI_for_read_2CDC_Volts.py is used for the record of capacitance singal A and B and the Voltage read by the Arduino ADC
 
