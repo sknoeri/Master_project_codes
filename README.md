@@ -3,7 +3,7 @@ The python code for the GUI and the used Arduino scetecher for reading the AD477
 
 ## The Arduino codes
 
-The arduino codes are accociated of the wirings presented in the report of my masters project.
+The arduino codes are accociated of the wirings presented in the report of my masters project. The wire library must be installed.
 
 --Capa_extended_I2CmultiplexVlot.ino is associated of wiring 1 in the section of the second devices. 
 
