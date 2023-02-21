@@ -1,5 +1,5 @@
 # Master_project_codes
-The python code for the GUI and the used Arduino scetecher for reading the AD4776
+The python code for the GUI and the used Arduino scetehces for reading the AD4776. Aslo the data-sheets of the bought chips and breakout-bords are added. Those data-sheets can also be found in the web.
 
 ## The Arduino codes
 
